@@ -13,6 +13,7 @@
     "url": "git+https://github.com/fredericbarthelet/homebridge-withings-aura.git"
   },
   "keywords": [
+    "homebridge-plugin",
     "homebridge",
     "withings",
     "aura",
